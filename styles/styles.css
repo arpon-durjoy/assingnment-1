@@ -68,6 +68,7 @@ padding-bottom: 20px;
     padding: 0px 230px 0px 230px;
 }
 .my-plan-list{
+    
     padding-left: 120px;
     padding-top: 40px;
     display: flex;
@@ -86,6 +87,23 @@ padding-bottom: 20px;
     padding-top: 10px;
     font-weight: 700;
 }
+.my-plan-list>div{
+    padding: 30px 10px;
+    border-radius: 5px;
+}
+.my-plan-list>#card1,#card5 {
+    background: #ffc49a;
+}
+.my-plan-list>#card2,#card6 {
+    background: #f1ff89;
+}
+.my-plan-list>#card3,#card7 {
+    background: #9affff;
+}
+.my-plan-list>#card4,#card8 {
+    background: #7a6eff;
+}
+
 /* Mindset section */
 
 .mindset {

@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url(../images/banner/banner1.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.new-year-motivation {
+  text-align: end;
+}
+.motivation-title {
+  font-size: 65px;
+  font-weight: 1000;
+  text-align: right;
+  color: #151414;
+  padding: 216px 230px 24px 845px;
+}
+.motivation-description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  padding: 0px 230px 0px  875px;
+}
+#button{
+    padding: 30px 230px 165px 1210px;
+}
+.motivation-button{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 30px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: #fd6e0a;
+}
+.past-story{
+    display: flex;
+
+    
+}
+.past-story .image{
+    padding: 130px 87px 130px 205px ;
+}
+.past-story .text{
+    padding: 370px 350px 215px 0px;
+}
+.past-story .text h2{
+    font-weight: 700;
+font-size: 45px;
+padding-bottom: 20px;
+}
+.past-story .text p{
+  text-align: left;
+}
+.reason-failure{
+    padding-top: 30px;
+  
+}
+.reason-failure p{
+    text-align: left;
+}
+/* My Plan Section */
+.my-plan{
+    margin-bottom: 50px;
+    padding: 0px 230px 0px 230px;
+}
+.my-plan-list{
+    padding-left: 120px;
+    padding-top: 40px;
+    display: flex;
+    gap: 110px;
+}
+.my-plan-title{
+    text-align: center;
+    font-size: 40px;
+}
+.my-plan-title #little-img{
+    padding-left: 10px;
+}
+
+.my-plan-list div h2,p{
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 700;
+}
+/* Mindset section */
+
+.mindset {
+    
+    margin: 150px 230px 0px 230px;
+    color: #fff;
+    background-image: url(../images/watch.png);
+    height: 100vh;
+    display: flex;
+    background-repeat: no-repeat;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background-size: 100%;
+}
+
+.color-overlay {
+    background-image: url(../images/gradient3.png);
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    padding: 140px 550px 190px 680px;
+    margin: 80px 230px 540px 230px;
+}
+/* contact style */
+.footer{
+    padding: 0px 200px 0px 0px;
+}
+.contact-1{
+    display: flex;
+    gap: 50px;
+    background: #1c1c1c;
+    padding: 100px 250px ;
+  }
+  .contact-1 .footer-title{
+    text-align: left;
+  }
+  .contact-1 input{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+  
+  }
+  .mail{
+    width: 461px;
+    height: 40px;
+    border-radius: 10px;
+  }
+  .footer-title{
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 50px;
+    color: #ffffff;
+  }
+  .footer-description{
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 30px;
+    text-align: left;
+}
+.footer a{
+    padding: 4px;
+}

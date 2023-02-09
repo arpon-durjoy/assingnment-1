@@ -90,6 +90,7 @@ padding-bottom: 20px;
 .my-plan-list>div{
     padding: 30px 10px;
     border-radius: 5px;
+    box-shadow:  0 0 20px  #b8b8b8;
 }
 .my-plan-list>#card1,#card5 {
     background: #ffc49a;
